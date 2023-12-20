@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morgan983
-- 👀 I’m interested in software development, cybersecurity and information assurance, and consulting!
-- 🌱 I’m currently learning programming, web development and completing my master's in Public Affairs
+- 👀 I’m interested in software development, data nalytics, cybersecurity and information assurance!
+- 🌱 I’m currently learning programming, web development and completing my master's in Business Administration with a specialization in Data Analytics
 - 💞️ I’m looking to collaborate on projects focused on the aformenetioned subjects above
 - 📫 How to reach me: email - morganraymore@yahoo.com, LinkedIn - Morgan Raymore
 
